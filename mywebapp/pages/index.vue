@@ -10,7 +10,7 @@
       </h2>
       <div class="links">
         <a
-          href="http://wiki.altair626.work:2500"
+          href="http://wiki.altair626.work"
           target="_blank"
           class="button--green"
         >
