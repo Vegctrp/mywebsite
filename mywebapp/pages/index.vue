@@ -10,11 +10,18 @@
       </h2>
       <div class="links">
         <a
-          href="http://wiki.altair626.work"
+          href="https://wiki.altair626.work"
           target="_blank"
           class="button--green"
         >
           Wiki
+        </a>
+        <a
+          href="http://blog.altair626.work"
+          target="_blank"
+          class="button--enji"
+        >
+          Blog
         </a>
         <a
           href="https://github.com/Vegctrp"

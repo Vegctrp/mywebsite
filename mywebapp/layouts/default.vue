@@ -38,6 +38,20 @@ html {
   background-color: #3b8070;
 }
 
+.button--enji {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #b3424a;
+  color: #b3424a;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+
+.button--enji:hover {
+  color: #fff;
+  background-color: #b3424a;
+}
+
 .button--grey {
   display: inline-block;
   border-radius: 4px;
