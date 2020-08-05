@@ -11,9 +11,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "axios": "^0.19.2",
     "nuxt": "^2.11.0"
   },
   "devDependencies": {
-    "@nuxtjs/google-analytics": "^2.2.3"
+    "@nuxtjs/google-analytics": "^2.4.0"
   }
 }

@@ -35,7 +35,8 @@ export default {
   buildModules: [
     ['@nuxtjs/google-analytics', {
       id: 'UA-159374446-1'
-    }]
+    }], 
+    '@nuxtjs/axios'
   ],
   /*
   ** Nuxt.js modules
