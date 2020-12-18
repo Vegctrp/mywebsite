@@ -42,6 +42,9 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    ['@nuxtjs/google-adsense', {
+      id: 'ca-pub-6742305924140573'
+    }]
   ],
   /*
   ** Build configuration
